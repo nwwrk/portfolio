@@ -1,0 +1,120 @@
+@media only screen and (min-width:0px) and (max-width:500px) {
+main {
+	width: 80%;
+	margin: 4em auto;
+}
+main img{
+	width: 15em;
+	height: 15em;
+	margin-bottom: 2em;
+}
+
+main article {
+	width: 60%;
+	text-align: left;
+	margin: 0 auto;
+}
+
+main article p {
+	color: #6c6c6c;
+	padding-bottom: 2em; 
+}
+
+main h1 {
+	font-size: 1.2em;
+}
+
+main div {
+	padding: 0.5em 0em 2em;
+}
+
+
+main div p {
+	padding-top: 0.5em;
+	color: #6c6c6c;
+	font-size: 1em;
+}
+section {
+	display: none;
+}
+
+
+}
+
+@media only screen and (min-width:501px) and (max-width:800px) {
+main {
+	width: 80%;
+	margin: 4em auto;
+}
+main img{
+	width: 15em;
+	height: 15em;
+	margin-bottom: 2em;
+}
+
+main article {
+	width: 60%;
+	text-align: left;
+	margin: 0 auto;
+}
+
+main article p {
+	color: #6c6c6c;
+	padding-bottom: 2em; 
+}
+
+main h1 {
+	font-size: 1.2em;
+}
+
+main div {
+	padding: 0.5em 0em 2em;
+}
+
+
+main div p {
+	padding-top: 0.5em;
+	color: #6c6c6c;
+	font-size: 1em;
+}
+
+}
+
+@media only screen and (min-width:801px) {
+main {
+	width: 80%;
+	margin: 4em auto;
+}
+main img{
+	width: 15em;
+	height: 15em;
+	margin-bottom: 2em;
+}
+
+main article {
+	width: 60%;
+	text-align: left;
+	margin: 0 auto;
+}
+
+main article p {
+	color: #6c6c6c;
+	padding-bottom: 2em; 
+}
+
+main h1 {
+	font-size: 1.2em;
+}
+
+main div {
+	padding: 0.5em 0em 2em;
+}
+
+
+main div p {
+	padding-top: 0.5em;
+	color: #6c6c6c;
+	font-size: 1em;
+}
+
+}

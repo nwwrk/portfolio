@@ -1,0 +1,178 @@
+@media only screen and (min-width:0px) and (max-width:500px) {
+main {
+	text-align: left;
+	width: 90%;
+	margin: 0 auto;
+}
+
+main h1 {
+	text-align: center;
+	font-size: 2em;
+	color: #1c1c1c;
+	margin: 2em 0em 1em;
+}
+
+main h2 {
+	font-size: 1.5em;
+	color: #1c1c1c;
+}
+
+main article {
+	padding-bottom: 2em;
+	margin-bottom: 2em;
+}
+
+main article:hover {
+	border: solid 1px #c4c4c4;
+}
+
+main article p {
+	font-size: 1em;
+	color: #6c6c6c;
+	line-height: 1.8;
+}
+
+main article ul {
+	list-style-position: inside;
+	text-indent: -1.5em;
+}
+
+main article ul li {
+	font-size: 1em;
+	color: #6c6c6c;
+	margin-left: 1.8em;
+}
+
+main article div {
+	margin-bottom: 3em;
+}
+
+
+main article h4 {
+	color: #000000;
+}
+
+main article div h3 {
+	font-size: 1em;
+	color: #1c1c1c;
+}
+}
+
+
+@media only screen and (min-width:501px) and (max-width:800px) {
+main {
+	text-align: left;
+	width: 90%;
+	margin: 0 auto;
+}
+
+main h1 {
+	text-align: center;
+	font-size: 2em;
+	color: #1c1c1c;
+	margin: 2em 0em 1em;
+}
+
+main h2 {
+	font-size: 1.5em;
+	color: #1c1c1c;
+}
+
+main article {
+	margin-bottom: 4em;
+}
+
+main article:hover {
+	border: solid 1px #c4c4c4;
+}
+
+main article p {
+	font-size: 1em;
+	color: #6c6c6c;
+}
+
+main article ul {
+	list-style-position: inside;
+	text-indent: -1.5em;
+}
+
+main article ul li {
+	font-size: 1em;
+	color: #6c6c6c;
+	margin-left: 1.8em;
+}
+
+main article div {
+	margin-bottom: 3em;
+}
+
+
+main article div p b {
+	color: #1c1c1c;
+	font-weight: 600;
+}
+
+main article div h3 {
+	font-size: 1em;
+	color: #1c1c1c;
+}
+}
+
+@media only screen and (min-width:801px) {
+main {
+	text-align: left;
+	width: 55%;
+	margin: 0 auto;
+}
+
+main h1 {
+	text-align: center;
+	font-size: 2em;
+	color: #1c1c1c;
+	margin: 2em 0em 1em;
+}
+
+main h2 {
+	font-size: 1.5em;
+	color: #1c1c1c;
+}
+
+main article {
+	margin-bottom: 4em;
+}
+
+main article:hover {
+	border: solid 1px #c4c4c4;
+}
+
+main article p {
+	font-size: 1em;
+	color: #6c6c6c;
+}
+
+main article ul {
+	list-style-position: inside;
+	text-indent: -1.5em;
+}
+
+main article ul li {
+	font-size: 1em;
+	color: #6c6c6c;
+	margin-left: 1.8em;
+}
+
+main article div {
+	margin-bottom: 3em;
+}
+
+
+main article div p b {
+	color: #1c1c1c;
+	font-weight: 600;
+}
+
+main article div h3 {
+	font-size: 1em;
+	color: #1c1c1c;
+}
+}

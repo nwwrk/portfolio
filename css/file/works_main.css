@@ -1,0 +1,120 @@
+@media only screen and (min-width:0px) and (max-width:640px) {
+
+main {
+	width: 100%;
+}
+
+main a{
+	text-decoration: none;
+}
+
+main a section {
+	width: 80%;
+	margin: 0 auto;
+	padding: 2em;
+	margin-bottom: 2em;
+}
+
+main a section:hover {
+	background-color: #f4f4f4;
+}
+
+main a section img {
+	width: 15em;
+	height: 15em;
+}
+
+main a section h1 {
+	color: #000000;
+	font-size: 1.1em;
+	line-height: 1.8;
+}
+
+main a section p {
+	color: #6c6c6c;
+	text-align: left;
+	line-height: 1.8;
+}
+
+}
+
+@media only screen and (min-width:641px) and (max-width:800px) {
+main {
+	width: 100%;
+	padding: 3em 0em;
+}
+
+main a {
+	text-decoration: none;
+}
+
+main a section {
+	width: 30%;
+	height: 20em;
+	display: inline-block;
+	margin: 0.5em;
+}
+
+main a section:hover {
+	background-color: #f4f4f4;
+}
+
+main a section img {
+	width: 10em;
+	height: 10em;
+}
+
+main a section h1 {
+	color: #000000;
+	font-size: 0.9em;
+	line-height: 2.3;
+}
+
+main a section p {
+	color: #6c6c6c;
+	text-align: left;
+	line-height: 1.8;
+}
+}
+
+@media only screen and (min-width:801px) {
+main {
+	width: 75%;
+	padding: 3em 0em;
+	margin: 0 auto;
+}
+
+main a {
+	text-decoration: none;
+}
+
+main a section {
+	width: 30%;
+	height: 20em;
+	display: inline-block;
+	margin: 0.5em;
+}
+
+main a section:hover {
+	background-color: #f4f4f4;
+}
+
+main a section img {
+	width: 10em;
+	height: 10em;
+}
+
+main a section h1 {
+	color: #000000;
+	font-size: 0.8em;
+	line-height: 2.3;
+}
+
+main a section p {
+	color: #6c6c6c;
+	text-align: left;
+	line-height: 1.8;
+}
+
+}
+
